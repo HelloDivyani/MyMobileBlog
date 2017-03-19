@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyBlogApp</string>
+    <string name="et_userName">Enter your UserName</string>
+    <string name="et_password">Enter the Password</string>
+    <string name="signIn">Sign in</string>
+    <string name="Register">Register</string>
+</resources>
